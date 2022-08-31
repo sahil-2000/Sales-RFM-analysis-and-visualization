@@ -1,5 +1,8 @@
 # Sales-RFM-analysis-and-visualization
 Extract required customer by RFM analysis
+--RECENCY (LAST ORDER DATE)
+--FREQUENCY (COUNT OF TOTAL ORDER)
+--MONETARY (TOTAL SPEND)
 
 
 
